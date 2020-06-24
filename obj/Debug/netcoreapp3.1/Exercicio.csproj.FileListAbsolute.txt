@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.exe
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.deps.json
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.json
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.runtimeconfig.dev.json
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\bin\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csprojAssemblyReference.cache
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.AssemblyInfo.cs
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.dll
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.pdb
+C:\Users\User\Desktop\EAD SENAI\EAD DEV\Aula 24 ObjetosComoArgumentos\Exercicio\obj\Debug\netcoreapp3.1\Exercicio.genruntimeconfig.cache
